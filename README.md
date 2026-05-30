@@ -2,7 +2,7 @@
 Developed an AI-powered Skin Cancer Detection System using Deep Learning and IIoT technologies to classify skin lesions from dermoscopic images. The project leverages CNNs, MobileNetV2 transfer learning, and the HAM10000 dataset to enable automated, scalable, and early skin cancer screening. Designed as a healthcare decision-support solution with potential applications in telemedicine, smart diagnostics, and remote patient care.  
 Built using TensorFlow, Keras and Python, the model is designed to support rapid, automated, and scalable skin cancer screening.
 
-# Key Features
+## Key Features
 -> Automated classification of 9 different skin lesion categories  
 -> Deep Learning-based image analysis using CNN architecture  
 -> Transfer Learning with MobileNetV2 for efficient model training  
@@ -10,7 +10,7 @@ Built using TensorFlow, Keras and Python, the model is designed to support rapid
 -> Performance evaluation using accuracy metrics, confusion matrix, and visualization dashboards  
 -> IIoT-ready architecture for integration with smart healthcare devices and remote diagnostic systems  
 
-# Technologies Used
+## Technologies Used
 Python  
 TensorFlow & Keras  
 CNN (Convolutional Neural Networks)  
@@ -21,7 +21,7 @@ Google Colab
 ISIC / HAM10000 Skin Cancer Dataset  
 Business & Healthcare Impact  
 
-# My Contribution
+## My Contribution
 1. Data preprocessing and dataset analysis
 2. Research and model development support
 3. Data manipulation and visualization
