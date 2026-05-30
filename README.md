@@ -1,4 +1,4 @@
-# Skin_Cancer_Detection_IIOT_Project
+# Skin Cancer Detection IIOT Project
 Developed an AI-powered Skin Cancer Detection System using Deep Learning and IIoT technologies to classify skin lesions from dermoscopic images. The project leverages CNNs, MobileNetV2 transfer learning, and the HAM10000 dataset to enable automated, scalable, and early skin cancer screening. Designed as a healthcare decision-support solution with potential applications in telemedicine, smart diagnostics, and remote patient care.
 Built using TensorFlow, Keras and Python, the model is designed to support rapid, automated, and scalable skin cancer screening.
 
